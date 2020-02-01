@@ -1,7 +1,7 @@
 package com.skilldistillery.foodtruck;
 
 // This class has no methods other than getters, setters, constructors, and an override of toString().
-// It is designed as a blueprint for individual objects of type FoodTruck
+// It is designed as a blueprint for individual objects of type FoodTruckwhere is git.exe stored
 // All interactions will be controlled through the main class - FoodTruckApp
 //
 
