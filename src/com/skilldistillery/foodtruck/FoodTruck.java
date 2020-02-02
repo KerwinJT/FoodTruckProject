@@ -67,7 +67,7 @@ public class FoodTruck {
 		this.foodType = foodType;
 		this.name = name;
 		this.rating = rating;
-		this.assignedID = staticID;
 		staticID++;
+		this.assignedID = staticID;
 	}
 }
